@@ -1,4 +1,5 @@
 # Smart Environmental Logging Node
+[![Launch in Wokwi](https://img.shields.io/badge/Launch%20in-Wokwi-25c2a0?style=for-the-badge&logo=cpu)](https://wokwi.com/projects/467095552487492609)
 
 A highly optimized, concurrent telemetry firmware platform engineered for the ESP32 microcontroller using Embedded C. This project simulates a sensor network designed to capture environmental metrics with maximum execution efficiency and minimal power consumption.
 
